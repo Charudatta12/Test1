@@ -1,0 +1,44 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Samel <10702771@thyssenkrupp-materials.com>
+#
+# On branch master
+#
+# Initial commit
+#
+# Untracked files:
+#	.cf/
+#	.eclipse/
+#	.p2/
+#	.vscode/
+#	3D Objects/
+#	AppData/
+#	Contacts/
+#	Desktop/
+#	Downloads/
+#	Favorites/
+#	Hello/
+#	IntelGraphicsProfiles/
+#	Links/
+#	Music/
+#	NTUSER.DAT
+#	NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.0.regtrans-ms
+#	NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.1.regtrans-ms
+#	NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.2.regtrans-ms
+#	NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.blf
+#	NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+#	NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+#	NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+#	OneDrive - thyssenkrupp Materials Services GmbH/
+#	OneDrive/
+#	Saved Games/
+#	Searches/
+#	Videos/
+#	eclipse-workspace/
+#	ntuser.dat.LOG1
+#	ntuser.dat.LOG2
+#	ntuser.ini
+#	package.json
+#
